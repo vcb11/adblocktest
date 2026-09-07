@@ -2,3 +2,6 @@
 ||amazon.com^$removeparam=ref
 ||twitch.tv^$removeparam=sr
 ||medal.tv^$removeparam=invite
+$removeparam=si
+$removeparam=is
+$removeparam=utm_source
