@@ -1,7 +1,8 @@
 ! Title: just a dank allowlist hehe 
 
-@@||apelections.org
-@@||ente.com
-@@||ms.now
-@@||kurasushi.com
-@@||fr24.com
+@@||apelections.org^
+@@||ente.com^
+@@||fr24.com^
+@@||kurasushi.com^
+@@||ms.now^
+
