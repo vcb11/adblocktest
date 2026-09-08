@@ -1,9 +1,18 @@
 ! Title: just a dank allowlist hehe 
 
+! news things
 @@||apelections.org^
+@@||ms.now^
+
+! monochrome
+@@||geeked.wtf^
+@@||samidy.xyz^
+@@||edideaur.works^
+@@||binimum.org^
+
+! other
 @@||ente.com^
 @@||fr24.com^
 @@||kurasushi.com^
-@@||ms.now^
 @@||v16-webapp-prime.us.tiktok.com^
 
