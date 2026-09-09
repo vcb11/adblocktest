@@ -12,7 +12,8 @@ flexbooks.ck12.org##.iMGihN.sc-gPEVay.static-flexi-icon
 flexbooks.ck12.org##.kaiazs.ModalityRead__AssignBarPlaceholder-sc-6lzmh4-0
 flexbooks.ck12.org###toc-container > span > .fxvKcM.Button__ButtonWithStyle-sc-84j1rn-1.iYAnf.Button__ButtonIconStyle-sc-84j1rn-2.dxtrack-user-action
 flexbooks.ck12.org###toolbar-container > span > .fxvKcM.Button__ButtonWithStyle-sc-84j1rn-1.iYAnf.Button__ButtonIconStyle-sc-84j1rn-2.dxtrack-user-action
-
+flexbooks.ck12.org##.cOLArL.sc-hzNEM.eUwTjT.sc-cCbPEh
+flexbooks.ck12.org##.gtMBma.sc-kaNhvL.static-flexi-icon
 
 ! CK12 telemetry and Flexi
 ||ck12.org/dexter^
