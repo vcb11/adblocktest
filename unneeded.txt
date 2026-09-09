@@ -36,3 +36,5 @@ classroom.google.com##a.TbJ0Pc.uTwgne:nth-of-type(3)
 
 ! others
 ||pendo.io^
+||codecombat.com/db/analytics.log.event^
+||platform.dash.cloudflare.com/sentry^
