@@ -1,0 +1,7 @@
+flexbooks.ck12.org###flexi-banner-container
+flexbooks.ck12.org##.bIQzQs.BannerContainer__Container-wk8eva-0
+flexbooks.ck12.org##.btn-highlight.toolbar-btn-container
+flexbooks.ck12.org##.fixed-position.ck12-annotation-toolbar-container
+flexbooks.ck12.org##.XEsSi.NavBar__Header-jhw9ie-0.header
+flexbooks.ck12.org###id-94in32-5 > .eOJeWr.Section__Area-goa9co-0 > .gKHxPE.Typography__StyledTypography-sc-12g5mn5-0.iACMBF.Section__Title-goa9co-1
+flexbooks.ck12.org##.gDAJFQ.Link__LinkBaseStyled-iblqo2-0.crkPYY.FloatingControlPanel__RouterLinkStyled-sc-1irhy4x-0.cKbYIn.Button__ButtonWithStyle-sc-84j1rn-1.fgOoOR.Button__ButtonIconStyle-sc-84j1rn-2.dxtrack-user-action
