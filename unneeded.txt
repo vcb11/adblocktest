@@ -10,6 +10,9 @@ flexbooks.ck12.org###id-94in32-5 > .eOJeWr.Section__Area-goa9co-0 > .gKHxPE.Typo
 flexbooks.ck12.org##.gDAJFQ.Link__LinkBaseStyled-iblqo2-0.crkPYY.FloatingControlPanel__RouterLinkStyled-sc-1irhy4x-0.cKbYIn.Button__ButtonWithStyle-sc-84j1rn-1.fgOoOR.Button__ButtonIconStyle-sc-84j1rn-2.dxtrack-user-action
 flexbooks.ck12.org##.iMGihN.sc-gPEVay.static-flexi-icon
 flexbooks.ck12.org##.kaiazs.ModalityRead__AssignBarPlaceholder-sc-6lzmh4-0
+flexbooks.ck12.org###toc-container > span > .fxvKcM.Button__ButtonWithStyle-sc-84j1rn-1.iYAnf.Button__ButtonIconStyle-sc-84j1rn-2.dxtrack-user-action
+flexbooks.ck12.org###toolbar-container > span > .fxvKcM.Button__ButtonWithStyle-sc-84j1rn-1.iYAnf.Button__ButtonIconStyle-sc-84j1rn-2.dxtrack-user-action
+
 
 ! CK12 telemetry and Flexi
 ||flexbooks.ck12.org/dexter/record/event^
