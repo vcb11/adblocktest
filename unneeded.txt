@@ -33,3 +33,6 @@ classroom.google.com##a.TbJ0Pc.uTwgne:nth-of-type(3)
 ! Formative telemetry
 ||otel.production.kops.goformative.com^
 ||logger.production.kops.goformative.com^
+
+! others
+||pendo.io^
