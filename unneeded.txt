@@ -29,10 +29,12 @@ classroom.google.com###ucc-1 > .SYd3U.NT3Ibe.gmNu1d
 classroom.google.com##.MLPUnb
 classroom.google.com###ucc-1
 classroom.google.com##a.TbJ0Pc.uTwgne:nth-of-type(3)
+classroom.google.com###ucc-227
+classroom.google.com###ucc-226
 
 ! Formative telemetry
-||otel.production.kops.goformative.com^
 ||logger.production.kops.goformative.com^
+||otel.production.kops.goformative.com^
 
 ! others
 ||pendo.io^
