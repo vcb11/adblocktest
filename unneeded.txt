@@ -32,6 +32,8 @@ classroom.google.com###ucc-1
 classroom.google.com##a.TbJ0Pc.uTwgne:nth-of-type(3)
 classroom.google.com###ucc-227
 classroom.google.com###ucc-226
+classroom.google.com##.N6nSod > .tB5Jxf-xl07Ob-XxIAqe-OWXEXe-oYxtQd > div
+classroom.google.com##.JL59ve > span > .oxacD.pYTkkf-Bz112c-LgbsSe-OWXEXe-SfQLQb-suEOdc.pYTkkf-Bz112c-LgbsSe
 
 ! Formative telemetry
 ||logger.production.kops.goformative.com^
