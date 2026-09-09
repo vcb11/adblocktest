@@ -20,6 +20,7 @@ flexbooks.ck12.org##.gtMBma.sc-kaNhvL.static-flexi-icon
 ||ck12.org/ml^
 ||ck12.org/metrics^
 ||ck12.org/flexi^
+||capi.ck12.org^
 
 ! google classroom
 classroom.google.com###ucc-2 > .SYd3U.NT3Ibe.gmNu1d
