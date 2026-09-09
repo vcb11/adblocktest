@@ -18,6 +18,7 @@ flexbooks.ck12.org###toolbar-container > span > .fxvKcM.Button__ButtonWithStyle-
 ||flexbooks.ck12.org/dexter/record/event^
 ||flexbooks.ck12.org/flexi/init-chatbot.js^
 ||flexbooks.ck12.org/ml^
+||flexbooks.ck12.org/metrics^
 ||ck12.org/flexi^
 
 ! google classroom
