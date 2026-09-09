@@ -16,11 +16,13 @@ flexbooks.ck12.org##.cOLArL.sc-hzNEM.eUwTjT.sc-cCbPEh
 flexbooks.ck12.org##.gtMBma.sc-kaNhvL.static-flexi-icon
 
 ! CK12 telemetry and Flexi
-||ck12.org/dexter^
 ||ck12.org/ml^
 ||ck12.org/metrics^
 ||ck12.org/flexi^
 ||capi.ck12.org^
+||ck12.org/*analytics*
+||ck12.org/*dexter*
+||ck12.org/assessment/ui/build-*/lib/Events/Events.js
 
 ! google classroom
 classroom.google.com###ucc-2 > .SYd3U.NT3Ibe.gmNu1d
