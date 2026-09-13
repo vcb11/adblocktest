@@ -1,4 +1,4 @@
-! Title: unneeded school website crap
+! Title: unneeded website crap
 
 ! CK12
 flexbooks.ck12.org###flexi-banner-container
@@ -35,6 +35,16 @@ classroom.google.com###ucc-227
 classroom.google.com###ucc-226
 classroom.google.com##.N6nSod > .tB5Jxf-xl07Ob-XxIAqe-OWXEXe-oYxtQd > div
 classroom.google.com##.JL59ve > span > .oxacD.pYTkkf-Bz112c-LgbsSe-OWXEXe-SfQLQb-suEOdc.pYTkkf-Bz112c-LgbsSe
+
+! Merriam-Webster's advertising boxes
+merriam-webster.com##.below-def-ad.tbgads-mid-tall-slot-wrap.tbgads-slot-wrap
+merriam-webster.com##.more_defs.widget > .tbgads-mid-tall-slot-wrap.tbgads-slot-wrap
+merriam-webster.com##div.tbgads-mid-tall-slot-wrap.tbgads-slot-wrap:nth-of-type(7)
+merriam-webster.com##div.d-md-block.d-none.tbgads-rightrail-slot-wrap.tbgads-slot-wrap:nth-of-type(4)
+merriam-webster.com##.first-ad.d-md-block.d-none.tbgads-rightrail-slot-wrap.tbgads-slot-wrap
+merriam-webster.com##.tbgads-header-slot-wrap
+merriam-webster.com##.d-md-block.d-none.tbgads-mid-tall-slot-wrap.tbgads-slot-wrap
+merriam-webster.com##div.tbgads-mid-tall-slot-wrap.tbgads-slot-wrap:nth-of-type(5)
 
 ! Formative telemetry
 ||logger.production.kops.goformative.com^
