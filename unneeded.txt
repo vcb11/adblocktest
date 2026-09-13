@@ -46,6 +46,10 @@ merriam-webster.com##.tbgads-header-slot-wrap
 merriam-webster.com##.d-md-block.d-none.tbgads-mid-tall-slot-wrap.tbgads-slot-wrap
 merriam-webster.com##div.tbgads-mid-tall-slot-wrap.tbgads-slot-wrap:nth-of-type(5)
 
+! American Express
+americanexpress.com##div.col-md-6.col-lg-4.col-xs-12:nth-of-type(2)
+americanexpress.com##.opt-out-modal-notification-inner
+
 ! Formative telemetry
 ||logger.production.kops.goformative.com^
 ||otel.production.kops.goformative.com^
