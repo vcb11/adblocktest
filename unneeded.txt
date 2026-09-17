@@ -1,4 +1,4 @@
-! Title: unneeded website crap
+! Title: unneeded crap
 
 ! CK12
 flexbooks.ck12.org###flexi-banner-container
@@ -58,3 +58,11 @@ americanexpress.com##.opt-out-modal-notification-inner
 ||pendo.io^
 ||codecombat.com/db/analytics.log.event^
 ||platform.dash.cloudflare.com/sentry^
+
+||rs6.net^$removeparam=c
+||rs6.net^$removeparam=ch
+
+||gradphotonetwork.com^$doc,removeparam=q
+||gradphotonetwork.com^$doc,removeparam=email
+||gradphotonetwork.com^$doc,removeparam=e
+||gradphotonetwork.com^$doc,removeparam=t
