@@ -10,6 +10,7 @@
 @@||samidy.xyz^
 @@||edideaur.works^
 @@||binimum.org^
+@@||boidu.dev^
 
 ! other
 @@||ente.com^
