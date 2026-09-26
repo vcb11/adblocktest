@@ -15,6 +15,9 @@
 
 ! other
 @@||ente.com^
+@@||searxng.org
+@@||fluxer.app
+@@||fluxerstatus.com
 @@||fr24.com^
 @@||kurasushi.com^
 @@||v16-webapp-prime.us.tiktok.com^
