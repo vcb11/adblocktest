@@ -1,5 +1,4 @@
-! Title: just a dank allowlist hehe 
-! for 1Hosts Xtra
+! Title: just an allowlist (1Hosts Xtra)
 
 ! news things
 @@||apelections.org^
@@ -15,9 +14,11 @@
 
 ! other
 @@||ente.com^
-@@||searxng.org
-@@||fluxer.app
-@@||fluxerstatus.com
+@@||searxng.org^
+@@||fluxer.app^
+@@||fluxerstatus.com^
+@@||krispykreme.com^
+@@||herocosmetics.com^
 @@||fr24.com^
 @@||kurasushi.com^
 @@||v16-webapp-prime.us.tiktok.com^
