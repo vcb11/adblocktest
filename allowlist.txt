@@ -3,6 +3,7 @@
 
 ! news things
 @@||apelections.org^
+@@||dropsitenews.com^
 @@||ms.now^
 
 ! monochrome
@@ -17,4 +18,4 @@
 @@||fr24.com^
 @@||kurasushi.com^
 @@||v16-webapp-prime.us.tiktok.com^
-@@||cdn-mw.com
+@@||cdn-mw.com^
